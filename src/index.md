@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Twenty Ninety
+title: Colossal squid (Vuejs fullstack dev looking for a job)
 seo:
-  image: /assets/images/meta/twenty-ninety--meta--home.png
-  description: A component-based Eleventy starter kit.
+  image: clipart.jpeg
+  description: Vuejs fullstack dev looking for a job.
 ---
 
 <div class="bg-blue mb-12">
@@ -13,7 +13,7 @@ seo:
       I'm a front-end engineer leaning towards full-stack, and I'm looking for a new challenge.
     </p>
     {% component "button",
-      url = "https://drive.google.com/file/d/1k_ebSrbH-WGfbjm6RyhMzSkWabr3iNYU/view?usp=sharing",
+      url = "https://drive.google.com/file/d/1sIonSe8WH8jwu1uPANIfvqgChaRZB_7G/view?usp=sharing",
       label = "Download my CV",
       theme = "white" %}
   </div>
